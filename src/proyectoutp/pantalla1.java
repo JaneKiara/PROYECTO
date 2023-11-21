@@ -58,7 +58,7 @@ public class pantalla1 extends javax.swing.JFrame {
         jLabel4.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
 
         jLabel5.setFont(new java.awt.Font("Segoe UI Historic", 0, 18)); // NOI18N
-        jLabel5.setText("MINIMARKET WILLSOM");
+        jLabel5.setText("MINIMARKET WILSON");
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
