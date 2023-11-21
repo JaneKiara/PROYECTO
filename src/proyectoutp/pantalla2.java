@@ -23,7 +23,8 @@ public class pantalla2 extends javax.swing.JFrame {
         initComponents();
         this.setLocationRelativeTo(this);
 
-        SetImageLabel(jLabel1, "src/imagenes/logo.png");
+        SetImageLabel(jLabel1, "src/imagenes/logo.png"); 
+        // Esta instanciado la imagen
     }
 
     /**
@@ -68,7 +69,7 @@ public class pantalla2 extends javax.swing.JFrame {
         jLabel1.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
 
         jLabel2.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
-        jLabel2.setText("MINIMARKET WILLSOM");
+        jLabel2.setText("MINIMARKET WILSON");
 
         jLabel3.setText("\"Los mejores productos, a precios bajos\"");
 
